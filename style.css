@@ -1,0 +1,14 @@
+#navbar{
+    border: 1px solid black;
+/* height: 70px; */
+display: flex;
+/* margin: auto; */
+padding:20px ;
+border-radius: 20px;
+justify-content: space-around;
+  }
+  #search_input{
+    width: 500px;
+    height: 20px;
+    border-radius: 10px;
+  }
